@@ -13,4 +13,9 @@ const saludos = [
 	'hOla',
 	'hoLa',
 	'holA',
+	'aloH',
+	'saluton',// hola en esperanto
+	'Holi',
+	'holi',
+	'HOLI',
 ];
